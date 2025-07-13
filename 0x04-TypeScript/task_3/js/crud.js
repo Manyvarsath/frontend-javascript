@@ -12,3 +12,4 @@ export function updateRow(rowId, row) {
   console.log(`Update row ${rowId}`, row);
   return rowId;
 }
+
